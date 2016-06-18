@@ -1,0 +1,234 @@
+src/main/java/core/ConfirmationPage.java:5:	headerCommentRequirement Required
+src/main/java/core/ConfirmationPage.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/ConfirmationPage.java:7:	Private field 'driver' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/core/ConfirmationPage.java:7:	fieldCommentRequirement Required
+src/main/java/core/ConfirmationPage.java:8:	Use explicit scoping instead of the default package private level
+src/main/java/core/ConfirmationPage.java:8:	fieldCommentRequirement Required
+src/main/java/core/ConfirmationPage.java:10:	Parameter 'driver' is not assigned and could be declared final
+src/main/java/core/ConfirmationPage.java:10:	publicMethodCommentRequirement Required
+src/main/java/core/ConfirmationPage.java:14:	Parameter 'expectedTitle' is not assigned and could be declared final
+src/main/java/core/ConfirmationPage.java:14:	publicMethodCommentRequirement Required
+src/main/java/core/ConfirmationPage.java:15:	Local variable 'actualTitle' could be declared final
+src/main/java/core/SignUpPage.java:15:	Too many fields
+src/main/java/core/SignUpPage.java:15:	headerCommentRequirement Required
+src/main/java/core/SignUpPage.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:17:	Private field 'driver' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/core/SignUpPage.java:17:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:18:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:18:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:20:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:22:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:24:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:26:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:28:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:30:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:32:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:34:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:36:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:38:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:38:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:40:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:42:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:42:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:44:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:46:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:46:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'first_name' is not final.
+src/main/java/core/SignUpPage.java:46:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:48:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:50:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:50:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'last_name' is not final.
+src/main/java/core/SignUpPage.java:50:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:52:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:54:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:54:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'email_address' is not final.
+src/main/java/core/SignUpPage.java:54:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:56:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:58:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:58:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'phone_number' is not final.
+src/main/java/core/SignUpPage.java:58:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:60:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:62:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:62:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:64:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:66:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:66:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:68:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:70:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:70:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'current_state' is not final.
+src/main/java/core/SignUpPage.java:70:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:72:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:74:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:74:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'privacy_checkbox' is not final.
+src/main/java/core/SignUpPage.java:74:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:76:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:78:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:78:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:80:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:81:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:81:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:83:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:85:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:85:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:87:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:89:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:89:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:91:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:93:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:93:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:95:	Use explicit scoping instead of the default package private level
+src/main/java/core/SignUpPage.java:97:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/core/SignUpPage.java:97:	fieldCommentRequirement Required
+src/main/java/core/SignUpPage.java:99:	Parameter 'driver' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:99:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:103:	Parameter 'expectedTitle' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:103:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:104:	Local variable 'actualTitle' could be declared final
+src/main/java/core/SignUpPage.java:108:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:110:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:110:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:111:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:111:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:114:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:118:	Parameter 'linkType' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:118:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:119:	Found 'DD'-anomaly for variable 'result' (lines '119'-'122').
+src/main/java/core/SignUpPage.java:119:	Found 'DD'-anomaly for variable 'result' (lines '119'-'125').
+src/main/java/core/SignUpPage.java:119:	Found 'DD'-anomaly for variable 'result' (lines '119'-'128').
+src/main/java/core/SignUpPage.java:119:	Found 'DD'-anomaly for variable 'result' (lines '119'-'131').
+src/main/java/core/SignUpPage.java:122:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/core/SignUpPage.java:125:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/core/SignUpPage.java:128:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/core/SignUpPage.java:131:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/core/SignUpPage.java:139:	Parameter 'errorType' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:139:	Parameter 'expectedErrorText' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:139:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:140:	Found 'DD'-anomaly for variable 'result' (lines '140'-'145').
+src/main/java/core/SignUpPage.java:140:	Found 'DD'-anomaly for variable 'result' (lines '140'-'151').
+src/main/java/core/SignUpPage.java:140:	Found 'DD'-anomaly for variable 'result' (lines '140'-'158').
+src/main/java/core/SignUpPage.java:140:	Found 'DD'-anomaly for variable 'result' (lines '140'-'166').
+src/main/java/core/SignUpPage.java:144:	Local variable 'firstNameError' could be declared final
+src/main/java/core/SignUpPage.java:145:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:150:	Local variable 'lastNameError' could be declared final
+src/main/java/core/SignUpPage.java:151:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:157:	Local variable 'emailAddressError' could be declared final
+src/main/java/core/SignUpPage.java:158:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:165:	Local variable 'phoneNumber' could be declared final
+src/main/java/core/SignUpPage.java:166:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:174:	Parameter 'emailAddress' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:174:	Parameter 'firstName' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:174:	Parameter 'gender' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:174:	Parameter 'lastName' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:174:	Parameter 'phoneNumber' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:174:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/main/java/core/SignUpPage.java:174:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:175:	Parameter 'checkTerms' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:175:	Parameter 'state' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:181:	Position literals first in String comparisons
+src/main/java/core/SignUpPage.java:193:	Parameter 'contentText' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:193:	Parameter 'contentType' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:193:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:194:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/main/java/core/SignUpPage.java:194:	Found 'DU'-anomaly for variable 'result' (lines '194'-'222').
+src/main/java/core/SignUpPage.java:194:	Local variable 'result' could be declared final
+src/main/java/core/SignUpPage.java:198:	Local variable 'quote' could be declared final
+src/main/java/core/SignUpPage.java:200:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:201:	Local variable 'quoteAfterRefresh' could be declared final
+src/main/java/core/SignUpPage.java:202:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/core/SignUpPage.java:202:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:204:	Local variable 'actualCity' could be declared final
+src/main/java/core/SignUpPage.java:205:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/core/SignUpPage.java:205:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:207:	Local variable 'actualWeather' could be declared final
+src/main/java/core/SignUpPage.java:208:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/core/SignUpPage.java:208:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:210:	Local variable 'currentDate' could be declared final
+src/main/java/core/SignUpPage.java:210:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:211:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/core/SignUpPage.java:211:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:213:	Local variable 'currentOs' could be declared final
+src/main/java/core/SignUpPage.java:214:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/core/SignUpPage.java:214:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:216:	Local variable 'currentBrowser' could be declared final
+src/main/java/core/SignUpPage.java:217:	A method should have only one exit point, and that should be the last statement in the method
+src/main/java/core/SignUpPage.java:217:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/core/SignUpPage.java:224:	Parameter 'elementId' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:224:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:225:	Local variable 'element' could be declared final
+src/main/java/core/SignUpPage.java:225:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:226:	Consider simply returning the value vs storing it in local variable 'element'
+src/main/java/core/SignUpPage.java:229:	Parameter 'elementId' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:229:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:230:	Local variable 'element' could be declared final
+src/main/java/core/SignUpPage.java:230:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:231:	Consider simply returning the value vs storing it in local variable 'element'
+src/main/java/core/SignUpPage.java:234:	Parameter 'elemebtId' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:234:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:235:	Local variable 'element' could be declared final
+src/main/java/core/SignUpPage.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:236:	Consider simply returning the value vs storing it in local variable 'element'
+src/main/java/core/SignUpPage.java:239:	Parameter 'elemebtId' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:239:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:240:	Local variable 'element' could be declared final
+src/main/java/core/SignUpPage.java:240:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:241:	Consider simply returning the value vs storing it in local variable 'element'
+src/main/java/core/SignUpPage.java:244:	Parameter 'elemebtId' is not assigned and could be declared final
+src/main/java/core/SignUpPage.java:244:	publicMethodCommentRequirement Required
+src/main/java/core/SignUpPage.java:245:	Local variable 'element' could be declared final
+src/main/java/core/SignUpPage.java:245:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/core/SignUpPage.java:246:	Consider simply returning the value vs storing it in local variable 'element'
+src/test/java/core/SignUp_POMTest.java:3:	Avoid unused imports such as 'java.io.File'
+src/test/java/core/SignUp_POMTest.java:4:	Avoid unused imports such as 'java.io.IOException'
+src/test/java/core/SignUp_POMTest.java:6:	Avoid unused imports such as 'org.apache.commons.io.FileUtils'
+src/test/java/core/SignUp_POMTest.java:7:	Avoid unused imports such as 'org.openqa.selenium.OutputType'
+src/test/java/core/SignUp_POMTest.java:8:	Avoid unused imports such as 'org.openqa.selenium.TakesScreenshot'
+src/test/java/core/SignUp_POMTest.java:13:	Avoid unused imports such as 'org.testng.ITestResult'
+src/test/java/core/SignUp_POMTest.java:15:	Avoid unused imports such as 'org.testng.annotations.AfterMethod'
+src/test/java/core/SignUp_POMTest.java:27:	headerCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/core/SignUp_POMTest.java:29:	Use explicit scoping instead of the default package private level
+src/test/java/core/SignUp_POMTest.java:29:	fieldCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/core/SignUp_POMTest.java:30:	Use explicit scoping instead of the default package private level
+src/test/java/core/SignUp_POMTest.java:30:	fieldCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:31:	Use explicit scoping instead of the default package private level
+src/test/java/core/SignUp_POMTest.java:31:	fieldCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:32:	Avoid excessively long variable names like expectedConfirmationTitle
+src/test/java/core/SignUp_POMTest.java:32:	Use explicit scoping instead of the default package private level
+src/test/java/core/SignUp_POMTest.java:32:	fieldCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/core/SignUp_POMTest.java:34:	Use explicit scoping instead of the default package private level
+src/test/java/core/SignUp_POMTest.java:34:	fieldCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:37:	publicMethodCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:46:	The String literal "elementIds" appears 6 times in this file; the first occurrence is on line 46
+src/test/java/core/SignUp_POMTest.java:47:	publicMethodCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:59:	Parameter 'elementId' is not assigned and could be declared final
+src/test/java/core/SignUp_POMTest.java:59:	publicMethodCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:64:	The String literal "isElementPresentTest" appears 4 times in this file; the first occurrence is on line 64
+src/test/java/core/SignUp_POMTest.java:65:	Parameter 'elementId' is not assigned and could be declared final
+src/test/java/core/SignUp_POMTest.java:65:	publicMethodCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:71:	Parameter 'elementId' is not assigned and could be declared final
+src/test/java/core/SignUp_POMTest.java:71:	publicMethodCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:78:	Parameter 'elementId' is not assigned and could be declared final
+src/test/java/core/SignUp_POMTest.java:78:	publicMethodCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:79:	System.out.println is used
+src/test/java/core/SignUp_POMTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:80:	System.out.println is used
+src/test/java/core/SignUp_POMTest.java:85:	Parameter 'elementId' is not assigned and could be declared final
+src/test/java/core/SignUp_POMTest.java:85:	publicMethodCommentRequirement Required
+src/test/java/core/SignUp_POMTest.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:86:	System.out.println is used
+src/test/java/core/SignUp_POMTest.java:87:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:87:	Potential violation of Law of Demeter (method chain calls)
+src/test/java/core/SignUp_POMTest.java:87:	System.out.println is used
+src/test/java/core/SignUp_POMTest.java:91:	Comment is too large: Line too long
+src/test/java/core/SignUp_POMTest.java:106:	publicMethodCommentRequirement Required
+

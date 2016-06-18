@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="150" passed="150">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6397" started-at="2016-06-18T18:23:08Z" finished-at="2016-06-18T18:23:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6397" started-at="2016-06-18T18:23:08Z" finished-at="2016-06-18T18:23:14Z">
+      <class name="core.SignUp_POMTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="setUp" is-config="true" duration-ms="4312" started-at="2016-06-18T11:23:08Z" finished-at="2016-06-18T11:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="75" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_fname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="8" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_lname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="7" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="7" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_state]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="7" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_quotes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="8" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_title]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="7" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_current_location]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_weather_icon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_temperature]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_fn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="8" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ln]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_pn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_m]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="7" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="9" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_cb_label]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="6" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_checkbox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="5" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_facebook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="5" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_twitter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="5" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_flickr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="5" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_youtube]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="5" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_reset_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="4" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_submit_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="4" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[timestamp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="5" started-at="2016-06-18T11:23:12Z" data-provider="elementIds" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[copyright]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="isElementPresentTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementPresentTest" duration-ms="4" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[os_browser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementPresentTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="20" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_fname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="18" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_lname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="20" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="33" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="17" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_state]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="16" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_quotes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="18" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_title]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="17" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_current_location]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_weather_icon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="16" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_temperature]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="18" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_fn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ln]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="18" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="16" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_pn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_m]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_cb_label]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_checkbox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="17" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_facebook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_twitter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_flickr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="20" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_youtube]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_reset_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_submit_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="18" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[timestamp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[copyright]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementDimensionTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementDimensionTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[os_browser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementDimensionTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_fname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="16" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_lname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="23" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_state]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_quotes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_title]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="16" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_current_location]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_weather_icon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_temperature]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_fn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ln]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_pn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_m]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="17" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="17" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_cb_label]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_checkbox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_facebook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_twitter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_flickr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_youtube]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_reset_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="14" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_submit_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[timestamp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="13" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[copyright]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="getElementSizeTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="getElementSizeTest" duration-ms="15" started-at="2016-06-18T11:23:13Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[os_browser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementSizeTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_fname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_lname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="12" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_state]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_quotes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_title]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_current_location]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_weather_icon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_temperature]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_fn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ln]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_pn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_m]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="6" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="6" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_cb_label]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_checkbox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="6" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_facebook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_twitter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_flickr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_youtube]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_reset_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_submit_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="7" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[timestamp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="6" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[copyright]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementEnabledTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementEnabledTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[os_browser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementEnabledTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="12" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_fname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_lname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_state]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_quotes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_title]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_current_location]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="11" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_weather_icon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="11" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_temperature]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="11" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_fn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ln]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="12" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_pn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_m]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_r_label_f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_g_radio_02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_f_label_s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="8" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_cb_label]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_checkbox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="26" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_facebook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_twitter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_flickr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_img_youtube]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_reset_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id_submit_button]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="11" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[timestamp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="10" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[copyright]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="isElementVisibleTest(java.lang.String)[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="isElementVisibleTest" duration-ms="9" started-at="2016-06-18T11:23:14Z" data-provider="elementIds" depends-on-methods="core.SignUp_POMTest.isElementPresentTest" finished-at="2016-06-18T11:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[os_browser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isElementVisibleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:core.SignUp_POMTest@66abb7d4]" name="tearDown" is-config="true" duration-ms="81" started-at="2016-06-18T11:23:14Z" finished-at="2016-06-18T11:23:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- core.SignUp_POMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
